@@ -1,2 +1,2 @@
 # ChatServerMK1
-chat server
+chat server udah mau mati

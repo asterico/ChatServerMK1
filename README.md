@@ -1,2 +1,2 @@
 # ChatServerMK1
-chat server udah mau mati
+chat server untuk tugas jarkom
